@@ -1,0 +1,10 @@
+apiVersion: management.cattle.io/v3
+kind: Project
+metadata:
+  name: p-bwfm7
+  namespace: local
+spec:
+  clusterName: local
+  description: ""
+  displayName: 测试项目
+  enableProjectMonitoring: false
